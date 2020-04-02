@@ -1,4 +1,4 @@
-package sizeyunsuan;
+package sizeyunsuan;/Judge
 
 import java.util.Scanner;
 
