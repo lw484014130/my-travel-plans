@@ -1,4 +1,4 @@
-package sizeyunsuan;
+package sizeyunsuan;/ProduceProblem
 
 import java.util.Random;
 

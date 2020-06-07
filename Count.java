@@ -1,4 +1,4 @@
-package sizeyunsuan;
+package sizeyunsuan;/Count
 
 import java.util.Stack;
 public class Count{

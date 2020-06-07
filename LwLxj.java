@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class LwLxj {
     public static void main(String[] args) {
-        System.out.println("请输入要生成的题目数：");
-        Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
+        int n=random()100;
+        System.out.println("随机生成题目"+n+"个");
+        Scanner=n;
         int count=0;
         for (int i = 1; i <= n; i++) {
             System.out.println("题目"+i+"：");
